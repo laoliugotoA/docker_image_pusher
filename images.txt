@@ -7,4 +7,9 @@ xhofe/alist:latest
 kibana:7.17.9
 kibana:7.6.2
 elasticsearch:7.6.2
-
+minio/minio:latest
+mongo:latest
+wurstmeister/zookeeper:latest
+wurstmeister/kafka:2.13-2.7.2
+sheepkiller/kafka-manager
+sheepkiller/kafka-manager:latest

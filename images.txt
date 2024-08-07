@@ -13,3 +13,4 @@ wurstmeister/zookeeper:latest
 wurstmeister/kafka:2.13-2.7.2
 sheepkiller/kafka-manager
 sheepkiller/kafka-manager:latest
+mongo:7

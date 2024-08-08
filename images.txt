@@ -17,3 +17,5 @@ mongo:7
 elasticsearch:8.5.0
 kibana:8.5.0
 mysql:8.0
+redis:6.2
+

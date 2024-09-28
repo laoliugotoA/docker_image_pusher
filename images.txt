@@ -20,3 +20,4 @@ mysql:8.0
 redis:6.2
 nacos/nacos-server:v2.4.0
 nacos/nacos-server:v2.2.1
+canal/canal-server:v1.1.7

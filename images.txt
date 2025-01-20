@@ -22,3 +22,4 @@ nacos/nacos-server:v2.4.0
 nacos/nacos-server:v2.2.1
 canal/canal-server:v1.1.7
 cimg/openjdk:17.0.13
+bitnami/kafka:3.9.0

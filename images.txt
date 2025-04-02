@@ -24,3 +24,4 @@ canal/canal-server:v1.1.7
 cimg/openjdk:17.0.13
 bitnami/kafka:3.9.0
 eipwork/kuboard:v3.5.2.6
+jenkins/jenkins:2.504-slim-jdk17

@@ -25,3 +25,4 @@ cimg/openjdk:17.0.13
 bitnami/kafka:3.9.0
 eipwork/kuboard:v3.5.2.6
 jenkins/jenkins:2.504-slim-jdk17
+logstash:8.17.3

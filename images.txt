@@ -27,3 +27,4 @@ eipwork/kuboard:v3.5.2.6
 jenkins/jenkins:2.504-slim-jdk17
 logstash:8.17.3
 prom/prometheus:latest
+redis:6.2.17

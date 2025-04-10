@@ -34,3 +34,4 @@ grafana/grafana:11.6.0
 prom/mysqld-exporter:latest
 oliver006/redis_exporter:latest
 danielqsj/kafka-exporter:latest
+bitnami/elasticsearch-exporter:latest

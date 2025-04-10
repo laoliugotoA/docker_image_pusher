@@ -35,4 +35,4 @@ prom/mysqld-exporter:latest
 oliver006/redis_exporter:latest
 bitnami/elasticsearch-exporter:latest
 bitnami/mysqld-exporter:latest
-bitnami/kafka-exporter:1.7.0
+

@@ -37,3 +37,4 @@ danielqsj/kafka-exporter:latest
 bitnami/elasticsearch-exporter:latest
 bitnami/kafka-exporter:latest
 bitnami/mysqld-exporter:latest
+bitnami/kafka-exporter:1.7.0

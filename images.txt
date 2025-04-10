@@ -33,8 +33,6 @@ bitnami/prometheus:2.55.1
 grafana/grafana:11.6.0
 prom/mysqld-exporter:latest
 oliver006/redis_exporter:latest
-danielqsj/kafka-exporter:latest
 bitnami/elasticsearch-exporter:latest
-bitnami/kafka-exporter:latest
 bitnami/mysqld-exporter:latest
 bitnami/kafka-exporter:1.7.0

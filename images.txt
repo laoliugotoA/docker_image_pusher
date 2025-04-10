@@ -31,3 +31,6 @@ redis:6.2.17
 mongo:7.0.18
 bitnami/prometheus:2.55.1
 grafana/grafana:11.6.0
+prom/mysqld-exporter:latest
+oliver006/redis_exporter:latest
+danielqsj/kafka-exporter:latest
